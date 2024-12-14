@@ -1,5 +1,5 @@
 # Hello, my name is Jandhersson Andrade👋
-✨ I am a front-end Dev still in development, Brazilian, a Christian, and an enthusiast of the gaming world.
+✨ I am a front-end Dev still in development, Brazilian, Christian, and an enthusiast of the gaming world.
 
 ## 👥 Connect with me
 Feel free to get in touch or follow me on any of these social networks:
