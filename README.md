@@ -1,4 +1,4 @@
-# Hello, my name is Jandhersson Andrade (jandhersantos-dev) (jandhersantos-dev) 👋
+# Hello, my name is Jandhersson Andrade (jandhersantos-dev)👋
 ✨ I am a front-end Dev still in development, a Christian, and an enthusiast of the gaming world.
 
 ## 👥 Connect with me
