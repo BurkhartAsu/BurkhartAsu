@@ -1,12 +1,13 @@
-# Hello, my name is Jandhersson Andrade (jandhersantos-dev)👋
-✨ I am a front-end Dev still in development, a Christian, and an enthusiast of the gaming world.
+# Hello, my name is Jandhersson Andrade👋
+✨ I am a front-end Dev still in development, Brazilian, a Christian, and an enthusiast of the gaming world.
 
 ## 👥 Connect with me
 Feel free to get in touch or follow me on any of these social networks:
 
-[![GitHub](https://img.shields.io/badge/GitHub-677BBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jandhersantos-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-677BBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandherssonandrade/)
 [![Discord](https://img.shields.io/badge/Discord-677BBF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jandherdev/)
+[![Gmail](https://img.shields.io/badge/Gmail-677BBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandherssondev@gmail.com)
+
 
 ## 🛠️ Skills
 Knowledge that I have acquired over time:
